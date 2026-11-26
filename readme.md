@@ -1,6 +1,6 @@
 # UniAIDet
 
-This is a subset of UniAIDet dataset.
+This is a subset of UniAIDet dataset. Full dataset available at https://huggingface.co/datasets/PKU-ONELab/UniAIDet
 
 ### Usage
 
